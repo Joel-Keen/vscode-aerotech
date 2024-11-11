@@ -3,19 +3,19 @@
     "name": "gcode",
     "displayName": "G-Code",
     "description": "The premier Visual Studio Code extension for G-Code",
-    "version": "0.2.1",
+    "version": "1.0.0",
     "preview": true,
     "author": {
-        "name": "Scott M. Wyant",
-        "email": "29161635+scottmwyant@users.noreply.github.com",
-        "url": "https://github.com/scottmwyant"
+        "name": "Joel Keen, Scott M. Wyant",
+        "email": "96116556+Joel-Keen@users.noreply.github.com",
+        "url": "https://github.com/Joel-Keen"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/scottmwyant/vscode-gcode"
+        "url": "https://github.com/Joel-Keen/vscode-aerotech"
     },
     "bugs": {
-        "url": "https://github.com/scottmwyant/vscode-gcode/issues"
+        "url": "https://github.com/Joel-Keen/vscode-aerotech/issues"
     },
     "license": "MIT",
     "engines": {
@@ -38,55 +38,7 @@
                     "gcode"
                 ],
                 "extensions": [
-                    ".001",
-                    ".apt",
-                    ".cls",
-                    ".cnc",
-                    ".din",
-                    ".dmp",
-                    ".dnc",
-                    ".ecs",
-                    ".eia",
-                    ".fan",
-                    ".fgc",
-                    ".fnc",
-                    ".g",
-                    ".g00",
-                    ".gc",
-                    ".gcd",
-                    ".gcode",
-                    ".h",
-                    ".hnc",
-                    ".knc",
-                    ".lib",
-                    ".maz",
-                    ".min",
-                    ".mpf",
-                    ".mpr",
-                    ".mpt",
-                    ".nc",
-                    ".ncc",
-                    ".ncd",
-                    ".ncf",
-                    ".ncg",
-                    ".ncp",
-                    ".ngc",
-                    ".out",
-                    ".pim",
-                    ".pit",
-                    ".plt",
-                    ".ply",
-                    ".ppg",
-                    ".prg",
-                    ".ptp",
-                    ".rol",
-                    ".sbc",
-                    ".sbp",
-                    ".spf",
-                    ".ssb",
-                    ".t",
-                    ".tap",
-                    ".xpi"
+                    ".pgm"
                 ],
                 "configuration": "./assets/language-configuration.json"
             }

@@ -3,6 +3,6 @@
 .gitignore
 
 # Top level folders
-#.vscode/**
-#src/**
-#.github/**
+.vscode/**
+src/**
+.github/**

@@ -1,8 +1,8 @@
 {
-    "publisher": "vscode-gcode",
-    "name": "gcode",
-    "displayName": "G-Code",
-    "description": "The premier Visual Studio Code extension for G-Code",
+    "publisher": "vscode-aerotech",
+    "name": "aerotech",
+    "displayName": "Aerotech G-Code",
+    "description": "The premier Visual Studio Code extension for G-Code, Aerotech Style",
     "version": "1.0.0",
     "preview": true,
     "author": {

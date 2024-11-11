@@ -324,14 +324,8 @@
       "patterns": [
         {
           "name": "replace.comment",
-          "begin": "\\(",
-          "end": "\\)",
-          "contentName": "replace.comment"
-        },
-        {
-          "name": "replace.comment",
-          "begin": "\\;",
-          "end": "$",
+          "begin": "\\//",
+          "end": "\\",
           "contentName": "replace.comment"
         }
       ]

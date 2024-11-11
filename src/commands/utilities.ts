@@ -1,5 +1,5 @@
-const startFlag = '(';
-const endFlag = ')';
+const startFlag = '//';
+const endFlag = '';
 
 export const commentUtility = {
     /**
@@ -23,7 +23,7 @@ export const commentUtility = {
     },
     
     /**
-     * This function is naieve, if you ask it to format the text as code
+     * This function is naive, if you ask it to format the text as code
      * it will remove characters from the start and end, even if the input
      * string is not a comment.  It is the caller's responsibility to find
      * out if the string is a comment or code before invoking this method.
